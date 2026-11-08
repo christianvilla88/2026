@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="canal1" tvg-name="CANAL 1" tvg-logo="https://imgs.search.brave.com/Px-P-NtK6cTJTvhzcf6Qrkyh7DOSaxqTI_1u49kdvrE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi8z/LzNjL1Jlc2lkZW50/X0V2aWxfMjAyNl9m/aWxtX3Bvc3Rlci5w/bmcvMjUwcHgtUmVz/aWRlbnRfRXZpbF8y/MDI2X2ZpbG1fcG9z/dGVyLnBuZz91dG1f/c291cmNlPWVuLndp/a2lwZWRpYS5vcmcm/dXRtX2NhbXBhaWdu/PXBhcnNlciZ1dG1f/Y29udGVudD10aHVt/Ym5haWw" group-title="NACIONALES",RESIDENT EVIL 0
 https://2453352364.tapecontent.net/radosgw/OW4ABLR3l4cW1B/-E8qw-X_Be5pzTHoYKg1847KV0SE8EHC93dEUOZbaoHWf6GcKjGh9kf8zWUBXc5xgQli4eFt77mG7xJUjYp_2XCJEQyyeys92_S3RbNMgZaYjkBwnuigFCTPX4jTpCmPfC79aPKwpOalLemxOvrBgiI0EIp3gD9UnHV5d14vHz72GUeT3xg3zTCcdY9Fc_D8z0zjoV_fhPy41MJQr_FPlL4RfXAo8cLUu0Qk_FNQpEiS9nJemKqoTtz2MKG6xWQ8_2-ZpGmZ2-9S6KJeuMgniIVXpKaE1z-H24jfngAVFCsrAJVw9uwH_zjvBF4/RSDNTEVLNC261080.mkv.mp4?stream=1
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="CANAL 2" tvg-logo="https://imagen.com/logo2.png" group-title="NACIONALES",CANAL 2
-http://servidor.com/stream/canal2.m3u8
+#EXTINF:-1 tvg-id="canal2" tvg-name="CANAL 2" tvg-logo="https://imagen.com/logo2.png" group-title="NACIONALES",Motal kombat
+https://861134164.tapecontent.net/radosgw/ylGqQGLlA7c1Dym/O5DoMuqaQ-FB5E9PoifLSPM_pf8K90ZPOrRF4ctlUmwr37fhSdW9szRCVkxVHoBNGbSH6Suu6wKMyj41imyPUi-65IX7z2oFboiYaxsELlYZnLvQ15Rd84SILUMLE4ol6I7ylUbAni5MAVWuORe3EbMoo67s1YVr0hA3agRKHfbixcrovkjtNu7Q8ovnWRT-dOPJICCVWddkSYvwd3xHVcNh_7F4H64fB4j3M5gWS7N7SubqU8bPwCrLHszcf8lAa-V0deyraWfMWOCg0SPW_eLbtElT6F7Skm4Lyi_V62rxaRIL0h3UXrp_aaE/MRTLKMBT2261080.mkv.mp4?stream=1
 
 #EXTINF:-1 tvg-name="PELICULAS" group-title="CINE",PELICULAS
 http://servidor.com/stream/peliculas.m3u8
